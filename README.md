@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![banysk's GitHub stats](https://github-readme-stats.vercel.app/api?username=banysk&theme=tokyonight&show_icons=true)
 
 <!--
